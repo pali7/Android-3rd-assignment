@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">fragmentsViewPager</string>
+    <string-array name="images">
+        <item>belt</item>
+        <item>cardigan1</item>
+        <item>cardigan2</item>
+        <item>dress1</item>
+        <item>dress2</item>
+        <item>jacket1</item>
+        <item>jacket2</item>
+        <item>pant1</item>
+        <item>pant2</item>
+        <item>shirt1</item>
+        <item>shirt2</item>
+        <item>skirt1</item>
+        <item>skirt2</item>
+        <item>sweater1</item>
+        <item>sweater2</item>
+        <item>tshirt1</item>
+        <item>tshirt2</item>
+        <item>tshirt3</item>
+    </string-array>
+</resources>
